@@ -1,0 +1,26 @@
+{
+  "name": "@muhammad_sami123/number-guessing-game",
+  "version": "1.0.1",
+  "description": "A number guessing game.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "\"number\"",
+    "\"guessing\"",
+    "\"game\""
+  ],
+  "author": "Muhammad Sami Asghar Mughal",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
